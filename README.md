@@ -1,2 +1,3 @@
-# Portfolio_SYK
-SAP ABAP 개발 포트폴리오
+#SAP ABAP_ 강서연 포트폴리오
+
+- 주요 경험: ABAP 비품 대여 관리 프로그램 개발, 데이터 아카이빙 운영 지원
